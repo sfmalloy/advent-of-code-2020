@@ -1,3 +1,6 @@
+**NOTE:** This repository is now archived. Please use [my solutions monorepo](https://github.com/sfmalloy/advent-of-code) to find any future changes.
+___
+
 # Advent of Code 2020
 
 These are my solutions to Advent of Code 2020 in Python. These were written running Python 3.8.5 specifically.
